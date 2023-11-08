@@ -1,0 +1,16 @@
+{
+  "darkTheme": false,
+  "coloration": "default",
+  "colors": {
+    "white": "#fff",
+    "black": "#000",
+    "transparent": "transparent",
+    "primary": "#08083e",
+    "secondary": "#eaff46",
+    "light": "#54e79a",
+    "dark": "#54e79a"
+  },
+  "typography": {
+    "fontFamilyBase": "Courier New"
+  }
+}
