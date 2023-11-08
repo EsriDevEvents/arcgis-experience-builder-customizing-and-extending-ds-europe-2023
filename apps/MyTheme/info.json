@@ -1,0 +1,23 @@
+{
+  "created": 1699275612240,
+  "description": "",
+  "id": "MyTheme",
+  "modified": 1699432998286,
+  "owner": "chb_esri_de",
+  "tags": [],
+  "thumbnail": null,
+  "title": "Theme",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Published",
+    "version:1.12.0",
+    "publishVersion:1.12.0"
+  ],
+  "portalUrl": "https://esri-de.maps.arcgis.com",
+  "username": "chb_esri_de",
+  "url": null
+}

@@ -1,0 +1,63 @@
+{
+  "name": "slider-filter",
+  "label": "Slider Filter",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.12.0",
+  "author": "Esri UK",
+  "description": "This is a custom widget built for the European Dev Summit 2023.",
+  "copyright": "Copyright © 2023 Esri UK Ltd.",
+  "license": "",
+  "defaultSize": {
+    "width": 360,
+    "height": 460
+  },
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en",
+    "ar",
+    "bg",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "nb",
+    "nl",
+    "pl",
+    "pt-br",
+    "pt-pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "zh-cn",
+    "uk",
+    "vi",
+    "zh-hk",
+    "zh-tw"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}
