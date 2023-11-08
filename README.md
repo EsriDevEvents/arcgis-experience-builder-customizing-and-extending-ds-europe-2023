@@ -9,3 +9,6 @@ Most of the slides are made available at [Esri Events > Proceedings](https://www
 ## Related sessions
 
 [ArcGIS Experience Builder: An Introduction](https://registration.esri.com/flow/esri/23eurdev/eventportal/page/detailed-agenda/session/1695631723655001iRQV)
+
+## Ressource
+DevOps workflow is a copy of this [repository](https://github.com/gavinr-maps/experience-builder-devops-example/tree/master)
