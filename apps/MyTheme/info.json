@@ -3,7 +3,7 @@
   "description": "",
   "id": "MyTheme",
   "modified": 1699432998286,
-  "owner": "chb_esri_de",
+  "owner": "chb4demoportal",
   "tags": [],
   "thumbnail": null,
   "title": "Theme",
@@ -17,7 +17,7 @@
     "version:1.12.0",
     "publishVersion:1.12.0"
   ],
-  "portalUrl": "https://esri-de.maps.arcgis.com",
-  "username": "chb_esri_de",
+  "portalUrl": "https://esri-de-5.maps.arcgis.com",
+  "username": "chb4demoportal",
   "url": null
 }

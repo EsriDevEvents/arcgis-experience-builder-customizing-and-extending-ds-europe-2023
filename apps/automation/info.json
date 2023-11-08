@@ -2,8 +2,8 @@
   "created": 1699433239739,
   "description": "",
   "id": "automation",
-  "modified": 1699434398151,
-  "owner": "chb_esri_de",
+  "modified": 1699438597725,
+  "owner": "chb4demoportal",
   "tags": [],
   "thumbnail": null,
   "title": "Widget_Theme_CI",
@@ -17,7 +17,7 @@
     "version:1.12.0",
     "publishVersion:1.12.0"
   ],
-  "portalUrl": "https://esri-de.maps.arcgis.com",
-  "username": "chb_esri_de",
+  "portalUrl": "https://esri-de-5.maps.arcgis.com",
+  "username": "chb4demoportal",
   "url": null
 }

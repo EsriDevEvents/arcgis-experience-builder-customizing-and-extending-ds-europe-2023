@@ -219,7 +219,9 @@
           "canSearch": true,
           "canNavigation": true
         },
-        "isUseCustomMapState": false
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_1",
+        "initialMapState": null
       },
       "id": "widget_1",
       "layouts": {
@@ -270,8 +272,8 @@
       "useDataSourcesEnabled": true,
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_1-18bae1ebdd1-layer-2",
-          "mainDataSourceId": "dataSource_1-18bae1ebdd1-layer-2",
+          "dataSourceId": "dataSource_1-18bae6ad044-layer-2",
+          "mainDataSourceId": "dataSource_1-18bae6ad044-layer-2",
           "rootDataSourceId": "dataSource_1",
           "fields": [
             "standalter",
@@ -302,9 +304,9 @@
     "dataSource_1": {
       "id": "dataSource_1",
       "type": "WEB_MAP",
-      "sourceLabel": "Trees_Berlin_DevSummit",
-      "itemId": "83be552f3837473cba1827d373d26e35",
-      "portalUrl": "https://esri-de.maps.arcgis.com"
+      "sourceLabel": "TreesBerlin",
+      "itemId": "295085a850dd49b7a1c73d1463ae4c75",
+      "portalUrl": "https://esri-de-5.maps.arcgis.com"
     }
   },
   "messageConfigs": {},
@@ -324,5 +326,5 @@
     }
   ],
   "customTheme": {},
-  "timestamp": 1699434366058
+  "timestamp": 1699438593732
 }
