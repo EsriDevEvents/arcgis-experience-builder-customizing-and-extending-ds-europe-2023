@@ -30,8 +30,11 @@ jobs:
       - name: NPM install in server folder
         run: npm ci
         working-directory: arcgis-experience-builder-1.12/ArcGISExperienceBuilder/server
-      - name: Build widgets
+      - name: Build widgets Prod
         run: npm run build:prod
+        working-directory: arcgis-experience-builder-1.12/ArcGISExperienceBuilder/client
+      - name: Build widgets Dev
+        run: npm run build:dev
         working-directory: arcgis-experience-builder-1.12/ArcGISExperienceBuilder/client
       - name: Run download script
         run: node -e "require('./server/src/middlewares/dev/apps/app-download.js').zipApp('automation', 'app.zip')"
