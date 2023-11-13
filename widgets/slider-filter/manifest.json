@@ -15,49 +15,6 @@
   "properties": {
     "hasSettingPage": true
   },
-  "translatedLocales": [
-    "en",
-    "ar",
-    "bg",
-    "bs",
-    "ca",
-    "cs",
-    "da",
-    "de",
-    "el",
-    "es",
-    "et",
-    "fi",
-    "fr",
-    "he",
-    "hr",
-    "hu",
-    "id",
-    "it",
-    "ja",
-    "ko",
-    "lt",
-    "lv",
-    "nb",
-    "nl",
-    "pl",
-    "pt-br",
-    "pt-pt",
-    "ro",
-    "ru",
-    "sk",
-    "sl",
-    "sr",
-    "sv",
-    "th",
-    "tr",
-    "zh-cn",
-    "uk",
-    "vi",
-    "zh-hk",
-    "zh-tw"
-  ],
-  "dependency": [
-    "jimu-arcgis"
-  ]
+  "translatedLocales": ["en"],
+  "dependency": ["jimu-arcgis"]
 }
