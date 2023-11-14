@@ -14,6 +14,7 @@
 
 import {
   React,
+  jsx,
   Immutable,
   JimuFieldType,
   DataSourceManager,
